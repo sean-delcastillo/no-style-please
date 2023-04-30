@@ -1,4 +1,4 @@
-@import url('../fonts/iosevka-aile.css');
+@import url('../assets/fonts/iosevka.css');
 
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
@@ -27,7 +27,7 @@ html { height: 100%; }
 
 body {
   color: black;
-  font-family: 'Iosevka Aile Web';
+  font-family: 'Iosevka Web';
   font-size: 16px;
   line-height: 1.4;
   margin: 0;
